@@ -1,5 +1,5 @@
 'use strict'
-var mongoose=requiere('mongoose')
+var mongoose=require('mongoose')
 var Schema=mongoose.Schema;
 
 var ProductSchema=Schema({
